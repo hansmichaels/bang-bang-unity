@@ -5,7 +5,7 @@ Bang Bang adalah sebuah game FPS yang dibuat menggunakan Unity. Game ini memilik
 Our Team:
 1. 2101628783 - 
    Kristi Handayani - 
-   
+   https://www.linkedin.com/in/kristi-handayani-9a11a5178
    
 2. 2101651786 -
    Rio Rafelino -
