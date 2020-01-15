@@ -1,5 +1,5 @@
 Bang Bang
-
+---------
 Bang Bang adalah sebuah game FPS yang dibuat menggunakan Unity. Game ini memiliki genre Survival, dimana Player harus bertahan hidup dengan cara membunuh musuh-musuh yang akan respawn terus-menerus. Bang Bang juga menggunakan sistem skor, dimana setiap saat Player membunuh Enemy, maka skor Player akan bertambah sesuai dengan jenis musuh yang dibunuh.
 
 Our Team:
